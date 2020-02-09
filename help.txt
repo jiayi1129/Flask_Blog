@@ -1,0 +1,10 @@
+1. Create route for new post in routes.py 
+2. create html file for creating post - create_post.html
+3. navigate to that template in layouts.html
+4. create new PostForm class in forms.py
+5. Using the new class PostForm in forms.py, 
+create new form in routes.py using form = PostForm()
+6. if form validates on submit:
+	add new Post instance to the db session (commit!)
+	flash success
+	redirect to home
