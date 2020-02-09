@@ -1,2 +1,9 @@
 flask
 gunicorn
+wtforms
+flask_login
+flask_wtf
+PIL
+flask_mail
+flask_sqlalchemy
+flask_bcrypt
