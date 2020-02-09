@@ -3,7 +3,7 @@ gunicorn
 wtforms
 flask_login
 flask_wtf
-PIL
+Pillow
 flask_mail
 flask_sqlalchemy
 flask_bcrypt
