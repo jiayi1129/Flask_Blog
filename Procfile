@@ -1,1 +1,1 @@
-web:gunicorn 'flaskblog:create_app()'
+web: python run.py
